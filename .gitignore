@@ -1,0 +1,12 @@
+.django
+.env
+.venv
+django/
+venv/
+ENV/
+django.bak/
+venv.bak/
+settings.json
+.vscode
+.empty
+
